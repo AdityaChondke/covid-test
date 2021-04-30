@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <div className="Box">
       <div className="Left">
-        <button onClick={()=>setShow(!show)}>Doante Plasma</button>
+        <button onClick={()=>setShow(!show)}>{show?'Close Donation Form':'Donate Plasma'}</button>
      { 
      
      show?<iframe class="airtable-embed" src="https://airtable.com/embed/shrKDaeI6Rm0w7waP?backgroundColor=yellow" 
@@ -19,7 +19,7 @@ function App() {
      }
      </div>
      <div className="Right">
-        <button onClick={()=>setShowR(!showR)}>Request Plasma</button>
+        <button onClick={()=>setShowR(!showR)}>{showR?'Close Request Form':'Request Plasma'}</button>
      { 
      
      showR?<iframe class="airtable-embed" src="https://airtable.com/embed/shr4Rw1FTBD3VBOO1?backgroundColor=yellow" 
