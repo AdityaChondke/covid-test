@@ -15,4 +15,9 @@
 .App-link {
   color: #61dafb;
 }
-
+@media (min-width:768px)
+{
+  .Box{
+    display: flex;
+    }
+}
