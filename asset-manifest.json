@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/covid-test/static/css/main.bb057229.chunk.css",
-    "main.js": "/covid-test/static/js/main.97e3431e.chunk.js",
-    "main.js.map": "/covid-test/static/js/main.97e3431e.chunk.js.map",
-    "runtime-main.js": "/covid-test/static/js/runtime-main.cf2b08f2.js",
-    "runtime-main.js.map": "/covid-test/static/js/runtime-main.cf2b08f2.js.map",
+    "main.css": "/covid-test/static/css/main.0e0e5bdf.chunk.css",
+    "main.js": "/covid-test/static/js/main.abf25db7.chunk.js",
+    "main.js.map": "/covid-test/static/js/main.abf25db7.chunk.js.map",
+    "runtime-main.js": "/covid-test/static/js/runtime-main.0bb63439.js",
+    "runtime-main.js.map": "/covid-test/static/js/runtime-main.0bb63439.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/covid-test/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d013b246.chunk.js": "/covid-test/static/js/2.d013b246.chunk.js",
-    "static/js/2.d013b246.chunk.js.map": "/covid-test/static/js/2.d013b246.chunk.js.map",
-    "static/js/3.54de38d9.chunk.js": "/covid-test/static/js/3.54de38d9.chunk.js",
-    "static/js/3.54de38d9.chunk.js.map": "/covid-test/static/js/3.54de38d9.chunk.js.map",
+    "static/js/2.80c5f290.chunk.js": "/covid-test/static/js/2.80c5f290.chunk.js",
+    "static/js/2.80c5f290.chunk.js.map": "/covid-test/static/js/2.80c5f290.chunk.js.map",
+    "static/js/3.69e3ef87.chunk.js": "/covid-test/static/js/3.69e3ef87.chunk.js",
+    "static/js/3.69e3ef87.chunk.js.map": "/covid-test/static/js/3.69e3ef87.chunk.js.map",
     "index.html": "/covid-test/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/covid-test/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.bb057229.chunk.css.map": "/covid-test/static/css/main.bb057229.chunk.css.map",
-    "static/js/2.d013b246.chunk.js.LICENSE.txt": "/covid-test/static/js/2.d013b246.chunk.js.LICENSE.txt"
+    "static/css/main.0e0e5bdf.chunk.css.map": "/covid-test/static/css/main.0e0e5bdf.chunk.css.map",
+    "static/js/2.80c5f290.chunk.js.LICENSE.txt": "/covid-test/static/js/2.80c5f290.chunk.js.LICENSE.txt",
+    "static/media/plasma.732f512a.gif": "/covid-test/static/media/plasma.732f512a.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf2b08f2.js",
+    "static/js/runtime-main.0bb63439.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d013b246.chunk.js",
-    "static/css/main.bb057229.chunk.css",
-    "static/js/main.97e3431e.chunk.js"
+    "static/js/2.80c5f290.chunk.js",
+    "static/css/main.0e0e5bdf.chunk.css",
+    "static/js/main.abf25db7.chunk.js"
   ]
 }
