@@ -2,23 +2,29 @@
   text-align: center;
 }
 .App-header {
-  background-color: #282c34;
+  background-color: #f2756f;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #f2756f;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #f2756f;
 }
 
 .Box {
   justify-content: center;
+  background-color: #f2756f;
 }
+
+.color-nav{
+  background-color: #76509f;
+}
+
 
 
 .custom-btn-toolbar {
@@ -27,6 +33,7 @@
 
 .custom-btn-toolbar > .btn {
   margin-right: 1rem;
+  background-color: #76509f;
 }
 
 
